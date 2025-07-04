@@ -19,3 +19,6 @@
 > **“Programs must be written for people to read, and only incidentally for machines to execute.”**  
 > — *Harold Abelson*
 
+## 💡 Developer Wisdom
+
+![Animated Quote](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4AE02E&center=true&vCenter=true&width=700&lines=Programs+must+be+written+for+people+to+read%2C;and+only+incidentally+for+machines+to+execute.;–+Harold+Abelson)
