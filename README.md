@@ -13,3 +13,11 @@
 [![](https://visitcount.itsvg.in/api?id=Fidelrock&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+╔══════════════════════════════════════════════════════════════╗
+║ Programs must be written for people to read,                ║
+║ and only incidentally for machines to execute.              ║
+║                                                             ║
+║ — Harold Abelson                                            ║
+╚══════════════════════════════════════════════════════════════╝
